@@ -29,9 +29,6 @@ HappyDNS版本 -> 0.3.10
 
 <font color=red> iOS版本最低支持8.0, 最高支持11.4 (视频版最低支持9.0)</font>
 
-### 2.3 下载地址
-https://fs-kefu-sdk.7moor.com/M7KF-2.6.0%28iOS-OC%29%20%20.zip
-
 ## 3、快速集成 
 <font color=red>注: 集成和发布过程有问题，请看文档最后的常见问题</font>
 ### 3.1 导入SDK
